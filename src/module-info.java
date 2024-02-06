@@ -1,0 +1,2 @@
+module HashMap_practice {
+}
